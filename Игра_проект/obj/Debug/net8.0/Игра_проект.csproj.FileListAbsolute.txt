@@ -1,0 +1,14 @@
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.AssemblyInfoInputs.cache
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.AssemblyInfo.cs
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.csproj.CoreCompileInputs.cache
+C:\Users\study\source\repos\Игра_проект\Игра_проект\bin\Debug\net8.0\Игра_проект.exe
+C:\Users\study\source\repos\Игра_проект\Игра_проект\bin\Debug\net8.0\Игра_проект.deps.json
+C:\Users\study\source\repos\Игра_проект\Игра_проект\bin\Debug\net8.0\Игра_проект.runtimeconfig.json
+C:\Users\study\source\repos\Игра_проект\Игра_проект\bin\Debug\net8.0\Игра_проект.dll
+C:\Users\study\source\repos\Игра_проект\Игра_проект\bin\Debug\net8.0\Игра_проект.pdb
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.dll
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\refint\Игра_проект.dll
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.pdb
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\Игра_проект.genruntimeconfig.cache
+C:\Users\study\source\repos\Игра_проект\Игра_проект\obj\Debug\net8.0\ref\Игра_проект.dll
